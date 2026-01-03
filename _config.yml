@@ -1,0 +1,14 @@
+title: "Jannis Lübsen"
+description: "TBD"
+theme: jekyll-theme-minimal
+
+# Optional: Navigation (nicht jedes Theme nutzt das gleich, aber schadet nicht)
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+  - cv.md
+
+# Saubere URLs
+permalink: pretty
+
