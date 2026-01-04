@@ -8,4 +8,3 @@ venue: 'In the proceedings of Proceedings of the 6th Annual Learning for Dynamic
 paperurl: 'https://proceedings.mlr.press/v242/lubsen24a.html'
 citation: ' Jannis Lübsen,  Christian Hespe,  Annika Eichler, &quot;Towards Safe Multi-Task Bayesian Optimization.&quot; In the proceedings of Proceedings of the 6th Annual Learning for Dynamics &amp;amp;amp; Control Conference, 2024.'
 ---
-[Access paper here](https://proceedings.mlr.press/v242/lubsen24a.html){:target="_blank"}

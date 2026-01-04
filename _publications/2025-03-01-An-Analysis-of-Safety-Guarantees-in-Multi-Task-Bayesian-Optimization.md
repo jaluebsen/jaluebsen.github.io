@@ -8,4 +8,3 @@ venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2503.08555'
 citation: ' Jannis Luebsen,  Annika Eichler, &quot;An Analysis of Safety Guarantees in Multi-Task Bayesian Optimization.&quot; arXiv, 2025.'
 ---
-[Access paper here](https://arxiv.org/abs/2503.08555){:target="_blank"}
